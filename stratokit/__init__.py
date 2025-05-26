@@ -1,1 +1,1 @@
-from .stratokit_hello import *
+from .AWS import *
